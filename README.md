@@ -1,1 +1,1 @@
-# Haskell-Chapters
+# Coxygen Internship
